@@ -1,2 +1,3 @@
 Experiment 1 - initial log
 Version 3.0
+Experiment 2 - added note by Juan Azcona
